@@ -1,0 +1,3 @@
+[submodule "moteus"]
+	path = moteus
+	url = https://github.com/mjbots/moteus.git
